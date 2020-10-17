@@ -20,7 +20,7 @@ body{
 .container{
     width: 95%;
     margin: 0 auto;
-    max-width: 1000px;
+    max-width: 900px;
 }
 img{
     width: 100%;
@@ -67,7 +67,7 @@ header{
     flex-direction: column;
 }
 .account{
-    padding: 2.5em 1em;
+    padding: 2em 1em;
     background-color: #aaa;
     border-radius: .5em;
 }
@@ -144,7 +144,7 @@ header{
     }
     .account-hero{
         display: initial;
-        flex-basis: 34%;
+        flex-basis: 38%;
     }
     .hero{
         height: auto;
